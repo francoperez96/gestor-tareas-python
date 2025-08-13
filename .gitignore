@@ -1,0 +1,11 @@
+# Archivos de base de datos
+*.db
+*.sqlite
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
